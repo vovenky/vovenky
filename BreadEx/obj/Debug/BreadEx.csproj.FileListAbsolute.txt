@@ -1,0 +1,16 @@
+C:\Users\student\Desktop\Синдеев\BreadEx\bin\Debug\BreadEx.exe.config
+C:\Users\student\Desktop\Синдеев\BreadEx\bin\Debug\BreadEx.exe
+C:\Users\student\Desktop\Синдеев\BreadEx\bin\Debug\BreadEx.pdb
+C:\Users\student\Desktop\Синдеев\BreadEx\obj\Debug\BreadEx.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Синдеев\BreadEx\obj\Debug\BreadEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Синдеев\BreadEx\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Синдеев\BreadEx\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Синдеев\BreadEx\obj\Debug\BreadEx_MarkupCompile.cache
+C:\Users\student\Desktop\Синдеев\BreadEx\obj\Debug\BreadEx_MarkupCompile.lref
+C:\Users\student\Desktop\Синдеев\BreadEx\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Синдеев\BreadEx\obj\Debug\BreadEx.g.resources
+C:\Users\student\Desktop\Синдеев\BreadEx\obj\Debug\BreadEx.Properties.Resources.resources
+C:\Users\student\Desktop\Синдеев\BreadEx\obj\Debug\BreadEx.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Синдеев\BreadEx\obj\Debug\BreadEx.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Синдеев\BreadEx\obj\Debug\BreadEx.exe
+C:\Users\student\Desktop\Синдеев\BreadEx\obj\Debug\BreadEx.pdb
